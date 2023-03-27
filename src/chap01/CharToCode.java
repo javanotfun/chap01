@@ -10,7 +10,7 @@ public class CharToCode {
 		char characterC = 'a';
 		int charCode = (int)characterC;
 		System.out.printf("%c = %d",characterC, charCode);
-		
+		System.out.printf("%c = %d",characterC, charCode);
 	}
 
 }
